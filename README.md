@@ -2,6 +2,8 @@
 
 A modern, responsive calendar component built with React, TypeScript, and Tailwind CSS.
 
+🌐 **Live Demo**: [https://calender-view.netlify.app](https://calender-view.netlify.app)
+
 ## Features
 
 - 📅 **Month View**: Full calendar grid with 7×6 layout
@@ -46,6 +48,15 @@ npm run dev
 ```
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
+
+## Deployment
+
+This project is automatically deployed to Netlify:
+
+- **Production URL**: [https://calender-view.netlify.app](https://calender-view.netlify.app)
+- **Deployment**: Automatic deployment on push to main branch
+- **Build Command**: `npm run build`
+- **Publish Directory**: `dist`
 
 ### Available Scripts
 
